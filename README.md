@@ -198,6 +198,10 @@
 
 【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)
 
+## 厦门大学
+
+【报名截止：6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/3974.htm)
+
 ## 吉林大学
 
 【报名截止：6.7】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1091/19265.htm)
